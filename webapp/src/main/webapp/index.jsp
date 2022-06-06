@@ -4,6 +4,7 @@
   <h1> New Commit testing PollSCM</h1>
   <h1> New Commit for deploy on container</h1>
   <h1> New Commit for build image and push to dockerhub</h1>
+  <h1> New Commit CI/CD Pipeline to Docker Container Using Jenkins Ansible</h1>
 </div>
 
  <h1> Thankyou, Happy Learning </h1>
